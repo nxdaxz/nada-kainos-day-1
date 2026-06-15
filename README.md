@@ -1,2 +1,2 @@
-#trainingthree@Trainings-MacBook-Pro
+# trainingthree@Trainings-MacBook-Pro
 hello world
